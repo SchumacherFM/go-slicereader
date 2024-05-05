@@ -1,3 +1,3 @@
-module github.com/spali/go-slicereader
+module github.com/SchumacherFm/go-slicereader
 
-go 1.15
+go 1.20
